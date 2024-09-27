@@ -1,0 +1,152 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+.AuthButton{
+
+    background-color: black;
+    margin-top: 40px;
+    color:white;
+
+    padding-top: 25px;
+    font-size: 18px; ;
+
+    margin-right: 50px;
+    width: 200px;
+    height: 80px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+.colorM{
+    margin-top: 40px;
+    background-color: black;
+    height: 80px;
+    color:white;
+    padding-top: 25px;
+    font-size: 18px;
+    margin-right: 50px;
+    width: 220px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+
+ul1{
+    padding: 20px;font-size: 25px;line-height:35px ;
+}
+
+header {
+    height: auto; /* Для авто-висоти */
+    padding-bottom: 20px;
+    text-align: center;
+}
+.header-line {
+
+    display: flex;
+    height: 160px;
+    background-color: #f39c12;
+}
+.logo {
+
+    margin-right: 250px;
+}
+
+
+.header-im{
+    padding-right: 0px;
+    padding-left: 20px;
+    margin-right:1200px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.pages {
+    font-size: 28px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    white-space: nowrap;
+}
+
+
+
+
+
+.h1{
+
+    font-size: 35px;
+    margin-left: 450px;
+    padding-bottom: 60px;
+}
+
+.h2{
+
+    font-size: 35px;
+    margin-left: 300px;
+    padding-bottom: 60px;
+}
+.r1{
+    margin-left: 50px;
+
+}
+.h8{
+    padding-top: 40px;
+    font-size: 35px;
+    margin-left: 700px;
+    padding-bottom:40px;
+}
+.h7{
+    padding-top: 40px;
+    font-size: 35px;
+    margin-left: 730px;
+    padding-bottom:40px;
+}
+.h9{
+    padding-top: 40px;
+    font-size: 35px;
+    margin-left: 700px;
+    padding-bottom:40px;
+}
+.h10{
+    padding-top: 40px;
+    font-size: 35px;
+    margin-left: 730px;
+    padding-bottom:40px;
+}
+.pages a {
+
+    color: white;
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+form-group{
+    margin-right: 600px;
+}
+.btn-success{
+    margin-left:700px;
+    height: 80px;
+    margin-top: 20px;
+    width: 320px;
+}
+
+
